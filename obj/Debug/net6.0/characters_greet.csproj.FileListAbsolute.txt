@@ -1,0 +1,15 @@
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\characters_greet.csproj.AssemblyReference.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\characters_greet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\characters_greet.AssemblyInfoInputs.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\characters_greet.AssemblyInfo.cs
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\characters_greet.csproj.CoreCompileInputs.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\bin\Debug\net6.0\characters_greet.exe
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\bin\Debug\net6.0\characters_greet.deps.json
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\bin\Debug\net6.0\characters_greet.runtimeconfig.json
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\bin\Debug\net6.0\characters_greet.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\bin\Debug\net6.0\characters_greet.pdb
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\characters_greet.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\refint\characters_greet.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\characters_greet.pdb
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\characters_greet.genruntimeconfig.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\characters_greet\obj\Debug\net6.0\ref\characters_greet.dll
